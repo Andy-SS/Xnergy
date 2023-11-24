@@ -1,0 +1,93 @@
+<mxfile host="Electron" modified="2023-11-24T07:56:39.655Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="S8H-1F7pZKF6SnQhkRbH" version="21.5.1" type="device">
+  <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
+    <mxGraphModel dx="1395" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WVnnygoib7hZ9qctAWxT-7" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="WVnnygoib7hZ9qctAWxT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="WVnnygoib7hZ9qctAWxT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="WVnnygoib7hZ9qctAWxT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="WVnnygoib7hZ9qctAWxT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-1" value="PC/Laptop" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="218" y="120" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-9" target="WVnnygoib7hZ9qctAWxT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-9" target="WVnnygoib7hZ9qctAWxT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-9" target="WVnnygoib7hZ9qctAWxT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-9" value="MCU A" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="202" y="349" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-15" value="MCU B" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="202" y="570" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-1" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/HTC_smartphone_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="218" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-3" value="MODBUS over RS485" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="333" y="126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-5" value="SPI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="162" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-6" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-6" value="Reboot and Enter into Firmeware update mode" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="103" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-9" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-9" value="Firmware for MCU A" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="195" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-12" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-12" value="Firmware for MCU B" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-15" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-15" value="Reboot both" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="371" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-18" target="5ai0XEoTZak3Wz8Oylgq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-18" value="Reboot and Enter into Firmeware update mode" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="127" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-38;entryPerimeter=0;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-21" target="5ai0XEoTZak3Wz8Oylgq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-21" value="Firmware Data" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="226" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FF0000;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=1;fillColor=#e51400;" edge="1" parent="1" source="WVnnygoib7hZ9qctAWxT-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVnnygoib7hZ9qctAWxT-24" value="Reboot" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="331" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

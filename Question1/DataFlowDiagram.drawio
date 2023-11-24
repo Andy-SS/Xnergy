@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2023-11-24T05:26:49.544Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="FxOAqqJzuLCbuMuZL5--" version="21.5.1" type="device">
+  <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
+    <mxGraphModel dx="1434" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=118.866;exitDy=11.134;exitPerimeter=0;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="5ai0XEoTZak3Wz8Oylgq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="5ai0XEoTZak3Wz8Oylgq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;exitX=0;exitY=0;exitDx=118.866;exitDy=64.866;exitPerimeter=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-1" target="5ai0XEoTZak3Wz8Oylgq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-1" value="Robot Controller" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-2" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-2" value="Battery Full" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="275" y="250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-3" target="5ai0XEoTZak3Wz8Oylgq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-3" value="Charging" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-4" value="Station Signal Status" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="355" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-9" target="5ai0XEoTZak3Wz8Oylgq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-9" target="5ai0XEoTZak3Wz8Oylgq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-9" value="RF MCU A" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-13" value="802.15.4: &lt;br&gt;868/915/2450 MHz" style="shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-15" target="5ai0XEoTZak3Wz8Oylgq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-15" target="5ai0XEoTZak3Wz8Oylgq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-15" target="5ai0XEoTZak3Wz8Oylgq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-15" value="RF MCU B" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-17" value="Charging Station" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-22" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=118.866;entryDy=11.134;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-18" target="5ai0XEoTZak3Wz8Oylgq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-18" value="Start Charging" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="275" y="480" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=118.866;entryDy=64.866;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="5ai0XEoTZak3Wz8Oylgq-19" target="5ai0XEoTZak3Wz8Oylgq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ai0XEoTZak3Wz8Oylgq-19" value="Stop Charging" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
